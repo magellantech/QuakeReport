@@ -7,7 +7,6 @@ QuakeReport is a .NET Core 7.0 project designed to process logs from the Quake I
 1. Make sure you have .NET Core SDK version 7.0 or higher installed.
 
 2. Clone the repository using Git:
-<img width="888" alt="Снимок экрана 2023-07-28 в 16 44 06" src="https://github.com/magellantech/QuakeReport/assets/1517243/47214e61-34df-4f8b-8b25-eeb95e9cb737">
 
    ```bash
    git clone https://github.com/your-username/QuakeReport.git
@@ -32,3 +31,7 @@ QuakeReport is a .NET Core 7.0 project designed to process logs from the Quake I
 1. Place the Quake III Arena game logs (usually with a .log extension) into the `LogFile/qgames.log` directory of the project.
 
 2. Run the project as described in the previous section.
+
+
+<img width="888" alt="Снимок экрана 2023-07-28 в 16 44 06" src="https://github.com/magellantech/QuakeReport/assets/1517243/47214e61-34df-4f8b-8b25-eeb95e9cb737">
+
