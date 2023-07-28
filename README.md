@@ -28,6 +28,6 @@ QuakeReport is a .NET Core 7.0 project designed to process logs from the Quake I
 
 ## How to Use QuakeReport
 
-1. Place the Quake III Arena game logs (usually with a .log extension) into the `Logs` directory of the project.
+1. Place the Quake III Arena game logs (usually with a .log extension) into the `LogFile/qgames.log` directory of the project.
 
 2. Run the project as described in the previous section.
