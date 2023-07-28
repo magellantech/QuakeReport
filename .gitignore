@@ -30,3 +30,589 @@
 *.exe
 *.out
 *.app
+
+# Mac OS-specific
+.DS_Store
+
+# Visual Studio Code-specific
+.vscode/
+
+# Build and output files
+/bin/
+/obj/
+/.vs/
+
+# NuGet Package Manager
+/packages/
+
+# .NET Core SDK
+/.dotnet/
+/global.json
+/*.sln.DotSettings
+
+# Resharper
+/_ReSharper.*
+
+# Build results
+*[Bb]in/
+*[Oo]bj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.bak
+*.cache
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+# NuGet v3's project.json files produces more ignoreable files
+*.nuget.props
+*.nuget.targets
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# DNX
+project.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+# TODO: Comment the next line if you want to checkin your web deploy settings
+# but database connection strings (with potential passwords) will be unencrypted
+*.pubxml
+*.publishproj
+
+# NuGet Package Management Console
+*.esproj
+
+# ASP.NET Scaffolding
+*.codegen.cs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+
+# Roslyn cache directories
+*.ide/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# SQLite database files
+*.db3
+*.sqlite3
+*.sqlite
+*.db
+
+# PDB files
+*.pdb
+
+# Node.js specific
+node_modules/
+npm-debug.log*
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.bmp
+*.webp
+*.tiff
+*.tif
+*.svg
+*.svgz
+*.mp3
+*.wav
+*.ogg
+*.mid
+*.midi
+*.m4a
+*.mp4
+*.webm
+*.ogv
+*.mkv
+*.avi
+*.mov
+*.mpeg
+*.mpg
+*.wmv
+*.flv
+*.3gp
+*.vob
+*.swf
+
+# Temporary files
+*.swp
+*~
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.bmp
+*.webp
+*.tiff
+*.tif
+*.svg
+*.svgz
+*.mp3
+*.wav
+*.ogg
+*.mid
+*.midi
+*.m4a
+*.mp4
+*.webm
+*.ogv
+*.mkv
+*.avi
+*.mov
+*.mpeg
+*.mpg
+*.wmv
+*.flv
+*.3gp
+*.vob
+*.swf
+
+# Temporary files
+*.swp
+*~
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# NuGet Package Management Console
+*.esproj
+
+# ASP.NET Scaffolding
+*.codegen.cs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+
+# Roslyn cache directories
+*.ide/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# SQLite database files
+*.db3
+*.sqlite3
+*.sqlite
+*.db
+
+# PDB files
+*.pdb
+
+# Node.js specific
+node_modules/
+npm-debug.log*
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+
+# Visual Studio Code specific files
+.vscode/
+
+# Build and output files
+/bin/
+/obj/
+/.vs/
+
+# NuGet Package Manager
+/packages/
+
+# .NET Core SDK
+/.dotnet/
+/global.json
+/*.sln.DotSettings
+
+# Resharper
+/_ReSharper.*
+
+# Build results
+*[Bb]in/
+*[Oo]bj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.bak
+*.cache
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+# NuGet v3's project.json files produces more ignoreable files
+*.nuget.props
+*.nuget.targets
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# SQLite database files
+*.db3
+*.sqlite3
+*.sqlite
+*.db
+
+# PDB files
+*.pdb
+
+# Node.js specific
+node_modules/
+npm-debug.log*
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.bmp
+*.webp
+*.tiff
+*.tif
+*.svg
+*.svgz
+*.mp3
+*.wav
+*.ogg
+*.mid
+*.midi
+*.m4a
+*.mp4
+*.webm
+*.ogv
+*.mkv
+*.avi
+*.mov
+*.mpeg
+*.mpg
+*.wmv
+*.flv
+*.3gp
+*.vob
+*.swf
+
+# Temporary files
+*.swp
+*~
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
