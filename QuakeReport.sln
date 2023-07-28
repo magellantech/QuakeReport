@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuakeReport", "QuakeReport\QuakeReport.csproj", "{FE07F43C-53F4-47BD-BC8C-0A9F76CBAD23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D739BF4B-7CBA-433C-A799-9FE01DD1AA8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE07F43C-53F4-47BD-BC8C-0A9F76CBAD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE07F43C-53F4-47BD-BC8C-0A9F76CBAD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE07F43C-53F4-47BD-BC8C-0A9F76CBAD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE07F43C-53F4-47BD-BC8C-0A9F76CBAD23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D739BF4B-7CBA-433C-A799-9FE01DD1AA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D739BF4B-7CBA-433C-A799-9FE01DD1AA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D739BF4B-7CBA-433C-A799-9FE01DD1AA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D739BF4B-7CBA-433C-A799-9FE01DD1AA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A9EB341-9612-4E9A-A39F-210450A9E7B1}
+	EndGlobalSection
+EndGlobal
